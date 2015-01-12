@@ -1,5 +1,0 @@
-C:\Users\New\documents\visual studio 2013\Projects\01.Introduction to Programming\06.Print a Sequence\bin\Debug\06.Print a Sequence.exe.config
-C:\Users\New\documents\visual studio 2013\Projects\01.Introduction to Programming\06.Print a Sequence\bin\Debug\06.Print a Sequence.exe
-C:\Users\New\documents\visual studio 2013\Projects\01.Introduction to Programming\06.Print a Sequence\bin\Debug\06.Print a Sequence.pdb
-C:\Users\New\documents\visual studio 2013\Projects\01.Introduction to Programming\06.Print a Sequence\obj\Debug\06.Print a Sequence.exe
-C:\Users\New\documents\visual studio 2013\Projects\01.Introduction to Programming\06.Print a Sequence\obj\Debug\06.Print a Sequence.pdb

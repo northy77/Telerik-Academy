@@ -1,0 +1,48 @@
+First Position : Java
+Love it or hate it but you can’t ignore it. This line seems very suitable to Java Programming language.
+Many developers around the global hate Java due to it’s long syntax and complexity of codes. 
+However, due to the magic of ‘bytecode‘ this language bypass the dependencies of platform and can be used at almost any computing platform.
+
+Second Position : C programming Language
+C is one of the first high level programming language. C is powerful, robust, foundation 
+of many popular programming language such as C++, Java etc. C is developed by Dennis Ritchie in At & T labs.
+It was built on a time when Normal people need to understand what is the computer first before jumping to something called ‘programming‘.
+I think the reason why it is on second position is due to the less support to the web. Well we all know ‘Web‘ is the future.
+
+Third Position :  C Plus Plus.
+C++ is a ‘C with classes‘. It’s very powerful object oriented programming language developed as successor of C.
+ It is widely used in ‘Game programming‘ and various areas. It is secured as third position on top 10 programming languages list.
+ It deserve to be so !
+
+Fourth Position : Python
+Python is rich, general purpose, high level programming language which supports multiple programming paradigms such as procedural,object oriented.
+What I mean by rich is that, python has so many libraries already built up which speed up your development process.
+Python is used in research area a lot, some of the popular web projects such as YouTube (entirely on Python), Google (some part on python) using python.
+Python has very popular web framework called ‘django‘ which makes python tough competitor to other web frameworks.
+
+Fifth Position : C Sharp.
+C# is high level programming language developed by Microsoft. It comes under .NET framework. C# is general purpose, rich and supports various computing devices. It is widely used in Application development.
+
+Sixth Position : PHP.
+PHP is high level interpreted programming language developed for web projects. It is widely used in Web development. 
+If IEEE consider only Web to be the matric then I am confident that PHP would be at position 1.
+Some of the popular web projects such as Facebook uses PHP as core language. PHP supports Object oriented paradigm as well.
+ It is rank as 6th among top 10 programming languages.
+
+Seventh Position : JavaScript.
+JavaScript is client end scripting language developed by Netscape. JavaScript is becoming popular day by day in Web development 
+zone and since the invention of Node, it is something you should learn ASAP. 
+Some of popular Libraries such as jQuery, angularJS and NodeJS pull up the JavaScript at 7th position of top 10 programming languages.
+
+Eight Position : Ruby.
+Ruby is Object oriented, dynamic programming language. It is used by many research organisation. 
+Ruby on rails is one of the popular web framework. Twitter  use this framework.
+
+Ninth Position : R programming language.
+R is statistical programming language designed for doing analysis on large amount of data. 
+Most of the ‘Machine Learning‘ experiments used to perform on R programming language. 
+Since it’s not general purpose language and not used widely it is rank at 9th position of top 10 programming languages.
+
+Tenth Position : MATLAB.
+Matlab is programming language with rich set of libraries to perform image processing, analysis and enhancement.
+It is widely used in image processing area. It is one of the tough languages I found to learn. Yes tougher than Java !

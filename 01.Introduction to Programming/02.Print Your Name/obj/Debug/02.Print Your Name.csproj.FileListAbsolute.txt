@@ -1,6 +1,0 @@
-C:\Users\New\documents\visual studio 2013\Projects\01.Introduction to Programming\02.Print Your Name\bin\Debug\02.Print Your Name.exe.config
-C:\Users\New\documents\visual studio 2013\Projects\01.Introduction to Programming\02.Print Your Name\bin\Debug\02.Print Your Name.exe
-C:\Users\New\documents\visual studio 2013\Projects\01.Introduction to Programming\02.Print Your Name\bin\Debug\02.Print Your Name.pdb
-C:\Users\New\documents\visual studio 2013\Projects\01.Introduction to Programming\02.Print Your Name\obj\Debug\02.Print Your Name.csprojResolveAssemblyReference.cache
-C:\Users\New\documents\visual studio 2013\Projects\01.Introduction to Programming\02.Print Your Name\obj\Debug\02.Print Your Name.exe
-C:\Users\New\documents\visual studio 2013\Projects\01.Introduction to Programming\02.Print Your Name\obj\Debug\02.Print Your Name.pdb

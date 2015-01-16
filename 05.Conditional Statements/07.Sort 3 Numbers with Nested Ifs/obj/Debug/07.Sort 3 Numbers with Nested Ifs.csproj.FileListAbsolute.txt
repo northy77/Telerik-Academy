@@ -1,0 +1,6 @@
+c:\users\new\documents\visual studio 2013\Projects\Solution1\07.Sort 3 Numbers with Nested Ifs\bin\Debug\07.Sort 3 Numbers with Nested Ifs.exe.config
+c:\users\new\documents\visual studio 2013\Projects\Solution1\07.Sort 3 Numbers with Nested Ifs\bin\Debug\07.Sort 3 Numbers with Nested Ifs.exe
+c:\users\new\documents\visual studio 2013\Projects\Solution1\07.Sort 3 Numbers with Nested Ifs\bin\Debug\07.Sort 3 Numbers with Nested Ifs.pdb
+c:\users\new\documents\visual studio 2013\Projects\Solution1\07.Sort 3 Numbers with Nested Ifs\obj\Debug\07.Sort 3 Numbers with Nested Ifs.csprojResolveAssemblyReference.cache
+c:\users\new\documents\visual studio 2013\Projects\Solution1\07.Sort 3 Numbers with Nested Ifs\obj\Debug\07.Sort 3 Numbers with Nested Ifs.exe
+c:\users\new\documents\visual studio 2013\Projects\Solution1\07.Sort 3 Numbers with Nested Ifs\obj\Debug\07.Sort 3 Numbers with Nested Ifs.pdb

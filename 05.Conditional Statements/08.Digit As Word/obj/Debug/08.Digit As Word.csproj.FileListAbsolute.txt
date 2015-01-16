@@ -1,0 +1,5 @@
+c:\users\new\documents\visual studio 2013\Projects\Solution1\08.Digit As Word\bin\Debug\08.Digit As Word.exe.config
+c:\users\new\documents\visual studio 2013\Projects\Solution1\08.Digit As Word\bin\Debug\08.Digit As Word.exe
+c:\users\new\documents\visual studio 2013\Projects\Solution1\08.Digit As Word\bin\Debug\08.Digit As Word.pdb
+c:\users\new\documents\visual studio 2013\Projects\Solution1\08.Digit As Word\obj\Debug\08.Digit As Word.exe
+c:\users\new\documents\visual studio 2013\Projects\Solution1\08.Digit As Word\obj\Debug\08.Digit As Word.pdb

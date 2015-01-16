@@ -1,0 +1,5 @@
+c:\users\new\documents\visual studio 2013\Projects\Solution1\03.Check for a Play Card\bin\Debug\03.Check for a Play Card.exe.config
+c:\users\new\documents\visual studio 2013\Projects\Solution1\03.Check for a Play Card\bin\Debug\03.Check for a Play Card.exe
+c:\users\new\documents\visual studio 2013\Projects\Solution1\03.Check for a Play Card\bin\Debug\03.Check for a Play Card.pdb
+c:\users\new\documents\visual studio 2013\Projects\Solution1\03.Check for a Play Card\obj\Debug\03.Check for a Play Card.exe
+c:\users\new\documents\visual studio 2013\Projects\Solution1\03.Check for a Play Card\obj\Debug\03.Check for a Play Card.pdb

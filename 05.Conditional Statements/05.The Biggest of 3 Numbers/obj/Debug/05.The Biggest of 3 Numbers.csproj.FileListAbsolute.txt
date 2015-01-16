@@ -1,0 +1,6 @@
+c:\users\new\documents\visual studio 2013\Projects\Solution1\05.The Biggest of 3 Numbers\bin\Debug\05.The Biggest of 3 Numbers.exe.config
+c:\users\new\documents\visual studio 2013\Projects\Solution1\05.The Biggest of 3 Numbers\bin\Debug\05.The Biggest of 3 Numbers.exe
+c:\users\new\documents\visual studio 2013\Projects\Solution1\05.The Biggest of 3 Numbers\bin\Debug\05.The Biggest of 3 Numbers.pdb
+c:\users\new\documents\visual studio 2013\Projects\Solution1\05.The Biggest of 3 Numbers\obj\Debug\05.The Biggest of 3 Numbers.csprojResolveAssemblyReference.cache
+c:\users\new\documents\visual studio 2013\Projects\Solution1\05.The Biggest of 3 Numbers\obj\Debug\05.The Biggest of 3 Numbers.exe
+c:\users\new\documents\visual studio 2013\Projects\Solution1\05.The Biggest of 3 Numbers\obj\Debug\05.The Biggest of 3 Numbers.pdb

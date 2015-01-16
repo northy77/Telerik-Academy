@@ -1,0 +1,5 @@
+c:\users\new\documents\visual studio 2013\Projects\Solution1\06.The Biggest of Five Numbers\bin\Debug\06.The Biggest of Five Numbers.exe.config
+c:\users\new\documents\visual studio 2013\Projects\Solution1\06.The Biggest of Five Numbers\bin\Debug\06.The Biggest of Five Numbers.exe
+c:\users\new\documents\visual studio 2013\Projects\Solution1\06.The Biggest of Five Numbers\bin\Debug\06.The Biggest of Five Numbers.pdb
+c:\users\new\documents\visual studio 2013\Projects\Solution1\06.The Biggest of Five Numbers\obj\Debug\06.The Biggest of Five Numbers.exe
+c:\users\new\documents\visual studio 2013\Projects\Solution1\06.The Biggest of Five Numbers\obj\Debug\06.The Biggest of Five Numbers.pdb
